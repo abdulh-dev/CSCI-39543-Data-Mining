@@ -13,49 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Aug-30.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c3e4b1073f9574c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "317b1ffde24f339d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Second Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ac94db7d0feb6f2c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b731cc0da9f48d47",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -108,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a178754d7b5cbb44",
@@ -124,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Note.md",
+                "file": "Aug-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Note.md",
+                "file": "Aug-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Note.md"
+                "file": "Aug-30.md"
               }
             }
           }
@@ -185,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317b1ffde24f339d",
+  "active": "4ebc681238e79158",
   "lastOpenFiles": [
-    "First Note.md",
-    "Second Note.md",
-    "Syllabus.md"
+    "Syllabus.md",
+    "Aug-30.md",
+    "Second Note.md"
   ]
 }
