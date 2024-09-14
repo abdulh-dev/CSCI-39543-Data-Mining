@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcb59c05e81c0dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept-6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e620a89d674b7bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f24f9c8e26b15e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sept-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sept-3.md",
+                "file": "Sept-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sept-3.md",
+                "file": "Sept-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sept-3.md"
+                "file": "Sept-13.md"
               }
             }
           }
@@ -146,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ebc681238e79158",
+  "active": "f24f9c8e26b15e69",
   "lastOpenFiles": [
-    "Aug-30.md",
+    "Sept 10.md",
+    "Sept-13.md",
+    "Sept-6.md",
     "sept-3.md",
+    "Aug-30.md",
     "Syllabus.md"
   ]
 }
